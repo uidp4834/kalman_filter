@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/gps.dir/kalman_test.c.o CMakeFiles/gps.dir/gps.c.o CMakeFiles/gps.dir/kalman.c.o CMakeFiles/gps.dir/matrix.c.o  -o gps -rdynamic -lm -lrt 

@@ -1,0 +1,3 @@
+/work/android_tools/klman/speed_traj_direction/build/CMakeFiles/edit_cache.dir
+/work/android_tools/klman/speed_traj_direction/build/CMakeFiles/gps.dir
+/work/android_tools/klman/speed_traj_direction/build/CMakeFiles/rebuild_cache.dir
